@@ -21,13 +21,16 @@
 ### 2. playing
   ![image](https://user-images.githubusercontent.com/70316489/207544091-89947013-0ece-48b9-b28b-83051025973a.png)
   >플레이 하는 맵의 모습
+  #
   ![image](https://user-images.githubusercontent.com/70316489/207544232-8367cdc2-3e11-49d1-91d7-2b66fe1548be.png)
   >게임 화면
+  #
 >다음 트랙을 운전하며 링같이 보이는 모든 체크 포인트들을 지난 후 마지막 체크 포인트를 지나게 되면 게임에 이기게 되며 제한 시간이 종료되면 게임에서 지게됩니다.
 기본 게임 시간은 1분입니다.
 ### 3. obstacles
 ![image](https://user-images.githubusercontent.com/70316489/207544713-ea0d69fd-4a15-47e6-8257-4e9b009be2a7.png)
 >첫번째 장애물 입니다. 충돌하면 플레이어가 뒤로 물러갈 뿐 제한시간에는 영향을 주지 않지만 좌우로 계속 움직여 진로를 방해합니다.
+#
 ![image](https://user-images.githubusercontent.com/70316489/207544949-730be8e6-a7c4-4cc9-b26d-c9575347768c.png)
 >두번째 장애물 입니다. 좌우로 움직이거나 충돌하여도 플레이어가 뒤로 물러나지 않고 통과하지만 10초의 제한시간이 줄어듭니다.
 ### 4. etc
@@ -36,6 +39,7 @@
 ### 5. ending
 * 성공
 > ![image](https://user-images.githubusercontent.com/70316489/207545639-777d4a7a-b6d8-4c70-968f-eb8d0c4bd71e.png)
+#
 * 실패
 > ![image](https://user-images.githubusercontent.com/70316489/207545639-777d4a7a-b6d8-4c70-968f-eb8d0c4bd71e.png)
 
