@@ -5,7 +5,8 @@
 ## 플레이 화면 및 설명
 ### 1. startPage
   ![image](https://user-images.githubusercontent.com/70316489/207543261-7f769cea-3031-48ac-abdf-ab2da3b958db.png)
->시작 화면 입니다. 원하는 캐릭터로 바꾸거나 카트의 색상을 변경시킬 수 있으며 버튼을 클릭하여 게임을 시작하거나 조작 방법을 익힐 수 있습니다.<br/>
+>시작 화면 입니다. 원하는 캐릭터로 바꾸거나 카트의 색상을 변경시킬 수 있으며 버튼을 클릭하여 게임을 시작하거나 조작 방법을 익힐 수 있습니다.
+#
 ![image](https://user-images.githubusercontent.com/70316489/207543803-fde9eb09-03fd-4a37-a44c-3270766a1f54.png)
 >캐릭터 1
 ![image](https://user-images.githubusercontent.com/70316489/207543876-8a9b4c20-c273-47fb-a8a4-56ffe17ddd17.png)
