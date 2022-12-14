@@ -1,7 +1,7 @@
 # River Racer
 ## 소개
 > River Racer는 강위에서 카트를 운전하여 모든 체크 포인트 링을 지나는 게임입니다.
->>레일 위에는 여러 장애물들이 존재하며 몇 장애물들은 제한 시간을 줄어들게 만듭니다.
+> 레일 위에는 여러 장애물들이 존재하며 몇 장애물들은 제한 시간을 줄어들게 만듭니다.
 ## 플레이 화면 및 설명
 ### 1. startPage
   ![image](https://user-images.githubusercontent.com/70316489/207543261-7f769cea-3031-48ac-abdf-ab2da3b958db.png)
@@ -22,9 +22,9 @@
 >다음 트랙을 운전하며 링같이 보이는 모든 체크 포인트들을 지난 후 마지막 체크 포인트를 지나게 되면 게임에 이기게 되며 제한 시간이 종료되면 게임에서 지게됩니다.
 기본 게임 시간은 1분입니다.
 ### 3. obstacles
-  ![image](https://user-images.githubusercontent.com/70316489/207544713-ea0d69fd-4a15-47e6-8257-4e9b009be2a7.png)
+![image](https://user-images.githubusercontent.com/70316489/207544713-ea0d69fd-4a15-47e6-8257-4e9b009be2a7.png)
 >첫번째 장애물 입니다. 충돌하면 플레이어가 뒤로 물러갈 뿐 제한시간에는 영향을 주지 않지만 좌우로 계속 움직여 진로를 방해합니다.
-  ![image](https://user-images.githubusercontent.com/70316489/207544949-730be8e6-a7c4-4cc9-b26d-c9575347768c.png)
+![image](https://user-images.githubusercontent.com/70316489/207544949-730be8e6-a7c4-4cc9-b26d-c9575347768c.png)
 >두번째 장애물 입니다. 좌우로 움직이거나 충돌하여도 플레이어가 뒤로 물러나지 않고 통과하지만 10초의 제한시간이 줄어듭니다.
 ### 4. etc
   ![image](https://user-images.githubusercontent.com/70316489/207545285-780438d5-26be-4133-8c9c-0f619733f92c.png)
