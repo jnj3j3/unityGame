@@ -9,10 +9,13 @@
 #
 ![image](https://user-images.githubusercontent.com/70316489/207543803-fde9eb09-03fd-4a37-a44c-3270766a1f54.png)
 >캐릭터 1
+#
 ![image](https://user-images.githubusercontent.com/70316489/207543876-8a9b4c20-c273-47fb-a8a4-56ffe17ddd17.png)
 >캐릭터 2
+#
 ![image](https://user-images.githubusercontent.com/70316489/207543939-41b3ca5f-68c2-408a-bf5b-1be64280596a.png)
 >캐릭터 3
+#
 ![image](https://user-images.githubusercontent.com/70316489/207543980-c0909c2a-4524-4796-b666-32872220f886.png)
 >캐릭터 4
 ### 2. playing
